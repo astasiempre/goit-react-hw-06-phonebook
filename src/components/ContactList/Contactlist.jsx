@@ -1,4 +1,4 @@
-// import React, { Component } from 'react';
+
 import ContactListItem from './ContactListItem';
 import { List } from './ContactList.styled';
 
